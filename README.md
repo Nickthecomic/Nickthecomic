@@ -1,12 +1,9 @@
-- 👋 Hi, I’m Nicole Conceição
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: She/Her, Ela/Dela
-- ⚡ Fun fact: ...
+- 👋 Olá, sou a Nicole Conceição
+- 🌱 Atualmente estudando Lógica da Programação, Banco de Dados...
+- 😄 Pronomes She/Her, Ela/Dela
 
-<!---
-Nickthecomic/Nickthecomic is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block"><br>
+  <img align="center" alt="Nick-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Nick-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+  
