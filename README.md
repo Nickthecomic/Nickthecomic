@@ -1,4 +1,4 @@
-- 👋 Olá, sou a Nicole Conceição
+## 👋 Olá, sou a Nicole Conceição e estou cursando a faculdade de ADS!
 - 🌱 Atualmente estudando Lógica da Programação, Banco de Dados...
 - 😄 Pronomes She/Her, Ela/Dela
 
